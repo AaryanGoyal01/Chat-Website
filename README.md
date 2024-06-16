@@ -61,7 +61,7 @@ This repository contains the implementation of a chat website using SpringBoot a
 
 ## Deployed URL
 
-[Click here to access the deployed chat application](https://my-chat-app-td0s.onrender.com/)
+[Click here to access the deployed chat application](https://my-chat-app-td0s.onrender.com/) (Link may take time to open)
 
 ## Contributing
 
